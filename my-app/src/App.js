@@ -112,7 +112,7 @@ function App() {
                     <div class="col-lg-4 me-auto"><p class="lead">You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</p></div>
                 </div>
                 <div class="text-center mt-4">
-                    <a class="btn btn-xl btn-outline-light" href="https://startbootstrap.com/theme/freelancer/">
+                    <a class="btn btn-xl btn-outline-light" href="#!">
                         <i class="fas fa-download me-2"></i>
                         Free Download!
                     </a>
@@ -156,7 +156,7 @@ function App() {
                                     <div class="fw-bolder">Form submission successful!</div>
                                     To activate this form, sign up at
                                     <br />
-                                    <a href="https://startbootstrap.com/solution/contact-forms">https://startbootstrap.com/solution/contact-forms</a>
+                                    <a href="#!">https://xyz.com/contact-forms</a>
                                 </div>
                             </div>
                            
@@ -189,7 +189,7 @@ function App() {
                         <h4 class="text-uppercase mb-4">About Freelancer</h4>
                         <p class="lead mb-0">
                             Freelance is a free to use, MIT licensed Bootstrap theme created by
-                            <a href="http://startbootstrap.com">Start Bootstrap</a>
+                            <a href="#!">Start Bootstrap</a>
                             .
                         </p>
                     </div>
